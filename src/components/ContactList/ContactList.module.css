@@ -1,0 +1,28 @@
+.contact {
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 30px;
+  margin-bottom: 50px;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contactBtn {
+  width: 70px;
+  justify-content: center;
+  background-color: tomato;
+  height: 30px;
+  font-size: 20px;
+  border: none;
+}
+
+.contactNames {
+  text-transform: capitalize;
+}
